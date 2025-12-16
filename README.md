@@ -121,7 +121,7 @@ ai-attendance-system/
 ## 🙋‍♂️ Author
 
 * **ASbhishek_singh**
-* GitHub: [[your-username](https://github.com/your-username)](https://github.com/Abhhisheksingh)
+* GitHub: (https://github.com/Abhhisheksingh)
 
 ---
 
